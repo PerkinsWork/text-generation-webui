@@ -1,4 +1,4 @@
-If you GPU is not large enough to fit a model, try these in the following order:
+If your GPU is not large enough to fit a model, try these in the following order:
 
 ### Load the model in 8-bit mode
 
